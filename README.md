@@ -12,6 +12,16 @@ The architecture treats memory as primary, not an add-on. Embeddings stored in p
 
 ---
 
+## Implementation
+
+This repository documents the system identity and architecture. The actual implementation lives here:
+
+→ **[github.com/icedeyes12/yuzu-companion](https://github.com/icedeyes12/yuzu-companion)** (v1, public)
+
+v2 is currently under construction in private.
+
+---
+
 ## Architecture
 
 ```
@@ -54,12 +64,6 @@ Core idea: continuity over scale.
 
 ---
 
-## Related
-
-- Creator: [github.com/icedeyes12](https://github.com/icedeyes12)
-
----
-
 <p align="center">
-  <sub>memory-first · local-possible · continuity-obsessed</sub>
+  <sub>creator: <a href="https://github.com/icedeyes12">icedeyes12</a> · implementation: <a href="https://github.com/icedeyes12/yuzu-companion">yuzu-companion</a></sub>
 </p>
